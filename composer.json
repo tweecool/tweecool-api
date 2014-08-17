@@ -5,7 +5,6 @@
     "keywords": ["twitter","feed", "api", "tweecool"],
     "homepage": "https://github.com/tweecool/tweecool-packagist",
     "license": "MIT",
-    "version":"1.0.0",
     "authors": [
         {
             "name": "Tweecool",
