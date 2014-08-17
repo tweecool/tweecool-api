@@ -1,7 +1,7 @@
 Tweecool-api
 ============
 
-## With composer
+## With Composer
 
 ```php
 
