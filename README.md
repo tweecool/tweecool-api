@@ -3,7 +3,7 @@ Tweecool-api
 
 ## With Composer
 
-add the following in the `composer.json`
+add the following in the `composer.json` :
 
 ```json
 
@@ -14,7 +14,7 @@ add the following in the `composer.json`
 }
 
 ```
-
+and then in your PHP file:
 
 ```php
 <?php
