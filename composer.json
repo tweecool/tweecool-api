@@ -1,7 +1,7 @@
 {
     "name": "tweecool/tweecool",
     "type": "library",
-    "description": "Get the latest feeds from twitter",
+    "description": "Simple API to get the latest feed from twitter",
     "keywords": ["twitter","feed", "api", "tweecool"],
     "homepage": "https://github.com/tweecool/tweecool-packagist",
     "license": "MIT",
@@ -20,5 +20,6 @@
         "psr-0": {
             "Tweecool": "src"
         }
-    }
+    },
+    "minimum-stability":"1.0"
 }
