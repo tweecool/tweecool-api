@@ -3,8 +3,21 @@ Tweecool-api
 
 ## With Composer
 
-```php
+add the following in the `composer.json`
 
+```json
+
+{   
+    "require": {
+        "tweecool/tweecool": "1.0.0"
+    }
+}
+
+```
+
+
+```php
+<?php
 require_once __DIR__ . '/vendor/autoload.php';
 
 use Tweecool\Tweecool;
@@ -20,7 +33,7 @@ foreach($tweecool->tweets as $tweet){
 ## Without Composer
 
 ```php
-
+<?php
 require_once '/PATH/TO/Tweecool.php';
 
 use Tweecool\Tweecool;
