@@ -1,0 +1,24 @@
+{
+    "name": "tweecool/tweecool",
+    "type": "library",
+    "description": "Get the latest feeds from twitter",
+    "keywords": ["twitter","feed", "api", "tweecool"],
+    "homepage": "https://github.com/tweecool/tweecool-packagist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tweecool",
+            "email": "support@tweecool.com",
+            "homepage": "http://www.tweecool.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Tweecool": "src"
+        }
+    }
+}
